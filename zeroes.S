@@ -1,0 +1,1 @@
+times 10240 db 0 ; Fill up to 10K with 0's so the disk won't fail to load
